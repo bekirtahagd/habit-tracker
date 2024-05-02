@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Habit Tracker</h1>
 
-<p align="center"><img src="https://socialify.git.ci/bekirtahagd/memory/image?description=1&amp;descriptionEditable=A%20simple%20memory%20game&amp;font=Source%20Code%20Pro&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Signal&amp;theme=Dark" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/bekirtahagd/habit-tracker/image?font=Source%20Code%20Pro&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Plus&amp;theme=Light" alt="project-image"></p>
 
 <p id="description">Ein simpler Habit Tracker, der einem täglich eine Checkliste der erledigten Aufgaben zur Verfügung stellt. Dabei werden die ausgewählten Werte dauerhaft gespeichert, sodass man einen regelmäßigen Plan hat. Dieses Projekt diente als Einstieg in die Nutzung von Android Studio, Flutter und Dart. Dabei wurden neue Technologien, wie der Android Emulator verwendet</p>
 
